@@ -27,5 +27,6 @@ Microsft form ---->Power Automate(Required Actions peformed)----->Excel sheet---
 
 
 
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/24f698af-12d7-4da9-8af6-82085b499702" />
 
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/59cb0672-7a8f-4a2a-943d-2632511042c8" />
